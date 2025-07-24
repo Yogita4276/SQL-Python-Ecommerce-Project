@@ -58,6 +58,7 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 ---
 
 ## 📂 Folder Structure
+```
 .
 ├── ecommerce_data_analysis_olist_dataset.ipynb
 ├── /data
@@ -69,6 +70,7 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 │   ├── products.csv
 │   └── sellers.csv
 ├── README.md
+```
 
 
 
