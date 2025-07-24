@@ -58,7 +58,18 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 ---
 
 ## 📂 Folder Structure
-<pre> project-root/ ├── ecommerce_data_analysis_olist_dataset.ipynb ├── README.md ├── /data │ ├── customers.csv │ ├── geolocation.csv │ ├── order_items.csv │ ├── orders.csv │ ├── payments.csv │ ├── products.csv │ └── sellers.csv </pre>
+.
+├── ecommerce_data_analysis_olist_dataset.ipynb
+├── /data
+│   ├── customers.csv
+│   ├── geolocation.csv
+│   ├── order_items.csv
+│   ├── orders.csv
+│   ├── payments.csv
+│   ├── products.csv
+│   └── sellers.csv
+├── README.md
+
 
 
 ---
