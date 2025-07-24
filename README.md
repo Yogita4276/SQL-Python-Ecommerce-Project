@@ -52,23 +52,13 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 
 - Python
 - Pandas & NumPy
-- Matplotlib & Seaborn
 - Jupyter Notebook
 - Correlation & Time Series Analysis
 
 ---
 
 ## 📂 Folder Structure
-.
-├── ecommerce_data_analysis_olist_dataset.ipynb
-├── /data
-│ ├── customers.csv
-│ ├── geolocation.csv
-│ ├── order_items.csv
-│ ├── orders.csv
-│ ├── payments.csv
-│ ├── products.csv
-│ └── sellers.csv
+<pre> project-root/ ├── ecommerce_data_analysis_olist_dataset.ipynb ├── README.md ├── /data │ ├── customers.csv │ ├── geolocation.csv │ ├── order_items.csv │ ├── orders.csv │ ├── payments.csv │ ├── products.csv │ └── sellers.csv </pre>
 
 
 ---
