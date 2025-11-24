@@ -41,11 +41,11 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 
 ## 📈 Sample Insights
 
-- Most customers are from São Paulo and Rio de Janeiro.
-- Approximately X% of all orders were paid via installments.
-- A small number of categories account for the majority of revenue.
-- Weak correlation was observed between product price and frequency of purchase.
-
+- Most customers are concentrated in major urban areas, especially São Paulo and Rio de Janeiro, making them the key markets for the business.
+- Installment payment is the most commonly used payment method.
+- A few product categories such as bed_bath_table, health_beauty, and computers_accessories generate the highest revenue.
+- Cheaper products are not purchased more frequently, showing a weak relationship between price and how often customers buy.
+- Orders increased significantly in 2017 and continued steadily through 2018, showing growing customer engagement and platform usage.
 ---
 
 ## 🧪 Technologies Used
@@ -53,7 +53,7 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 - Python
 - Pandas & NumPy
 - Jupyter Notebook
-- Correlation & Time Series Analysis
+- SQL(MYSQL)
 
 ---
 
