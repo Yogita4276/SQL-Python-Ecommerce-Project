@@ -2,9 +2,9 @@
 
 ## 📊 Project Overview
 
-This project presents a detailed exploratory data analysis (EDA) and business insights from a Brazilian e-commerce dataset, originally provided by [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The dataset includes customer details, orders, payments, products, sellers, and geolocation data collected between 2016 and 2018.
+This project presents a detailed exploratory data analysis (EDA) and business insights from a Brazilian e-commerce dataset, originally provided by [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The dataset includes customer details, orders, payments, products, sellers,order items and geolocation data collected between 2016 and 2018.
 
-The objective of this notebook is to uncover trends, customer behavior, sales performance, and patterns in payment, geography, and product categories.
+The objective of this notebook is to uncover trends, customer behavior, sales performance and patterns in payment, geography, and product categories.
 
 ---
 
