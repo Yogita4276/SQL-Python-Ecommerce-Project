@@ -1,6 +1,6 @@
-# 🛒 E-Commerce Data Analysis (Olist Dataset)
+#  E-Commerce Data Analysis (Olist Dataset)
 
-## 📊 Project Overview
+##  Project Overview
 
 This project presents a detailed exploratory data analysis (EDA) and business insights from a Brazilian e-commerce dataset, originally provided by [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). The dataset includes customer details, orders, payments, products, sellers,order items and geolocation data collected between 2016 and 2018.
 
@@ -8,13 +8,13 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 
 ---
 
-## 📁 Access the Notebook & Dataset
+##  Access the Notebook & Dataset
 
-👉 [**Download the full notebook and data files via Google Drive**](https://drive.google.com/drive/folders/1ZDud98v_w3w4GXSqGnrzSq9AhV5JxvW2?usp=drive_link)
+ [**Download the full notebook and data files via Google Drive**](https://drive.google.com/drive/folders/1ZDud98v_w3w4GXSqGnrzSq9AhV5JxvW2?usp=drive_link)
 
 ---
 
-## 🧰 Data Sources
+##  Data Sources
 
 - `customers.csv` – Customer information and location  
 - `geolocation.csv` – Zip code geolocations  
@@ -26,7 +26,7 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 
 ---
 
-## 📝 Analysis Objectives
+##  Analysis Objectives
 
 1. **List all unique cities where customers are located**
 2. **Count the number of orders placed in 2017**
@@ -39,7 +39,7 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 
 ---
 
-## 📈 Sample Insights
+##  Sample Insights
 
 - Most customers are concentrated in major urban areas, especially São Paulo and Rio de Janeiro, making them the key markets for the business.
 - Installment payment is the most commonly used payment method.
@@ -48,7 +48,7 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 - Orders increased significantly in 2017 and continued steadily through 2018, showing growing customer engagement and platform usage.
 ---
 
-## 🧪 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas & NumPy
@@ -57,7 +57,7 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 ```
 .
 ├── ecommerce_data_analysis_olist_dataset.ipynb
@@ -76,7 +76,7 @@ The objective of this notebook is to uncover trends, customer behavior, sales pe
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download the files from the Google Drive link above.
 2. Open the Jupyter Notebook in your local environment:
